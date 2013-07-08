@@ -1,2 +1,2 @@
-hal
-===
+configs in hal
+==============
