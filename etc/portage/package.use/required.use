@@ -1,0 +1,14 @@
+#required by media-libs/mesa-8.1_rc1_pre20120724[xorg], required by x11-libs/cairo-1.12.2-r3[opengl], required by x11-libs/gtk+-3.4.4, required by gnome-base/gconf-3.2.5, required by www-client/google-chrome-21.0.1180.77_beta150576, required by @utils-user, required by @myset, required by @selected, required by @world (argument)
+>=x11-libs/libdrm-2.4.38 libkms
+#required by sys-devel/prelink-20111012, required by @utils-system, required by @myset, required by @selected, required by @world (argument)
+>=dev-libs/elfutils-0.154-r1 static-libs
+>=media-libs/gd-2.0.35-r3 fontconfig
+=dev-lang/fpc-2.4.0 source
+dev-lang/fpc source
+media-libs/gst-plugins-base theora
+dev-lang/R java
+dev-java/swt gnome webkit
+net-misc/teamviewer system-wine
+dev-libs/libpeas gtk
+=app-emulation/emul-linux-x86-xlibs-20130224 -opengl
+media-libs/mesa -xorg

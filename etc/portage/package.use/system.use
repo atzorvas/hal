@@ -1,0 +1,11 @@
+dev-lang/python tk
+net-nds/openldap sasl
+media-libs/mesa g3dvl
+sys-boot/grub device-mapper
+net-dns/avahi mdnsresponder-compat
+app-portage/layman bazaar cvs git mercurial subversion
+dev-lang/python sqlite
+sys-devel/gcc fortran
+sys-libs/zlib minizip
+net-fs/cifs-utils upcall
+x11-terms/rxvt-unicode 256-color
